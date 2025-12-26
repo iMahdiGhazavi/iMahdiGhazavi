@@ -41,26 +41,6 @@ My bachelor’s thesis focused on building a **ReAct-enhanced RAG framework** fo
 I enjoy working at the intersection of **ML, LLMs, information retrieval, and data mining**.
 
 ---
-
-## 🔭 Current Focus
-
-- ReAct-based **agentic RAG systems**
-- Financial **sentiment analysis & market forecasting**
-- Retrieval optimization (chunking, indexing, re-ranking)
-- Transformer-based NLP models
-
----
-
-## 🔬 Research Interests
-
-- **Natural Language Processing (NLP)**
-- **Large Language Models & Transformers**
-- **Retrieval-Augmented Generation (RAG)**
-- **NLP-based Financial Forecasting**
-- **Information Retrieval & Data Mining**
-
----
-
 ## ⚡ Tech Stack
 
 ### 🧠 Languages
@@ -84,6 +64,25 @@ I enjoy working at the intersection of **ML, LLMs, information retrieval, and da
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+
+---
+
+## 🔬 Research Interests
+
+- **Natural Language Processing (NLP)**
+- **Large Language Models & Transformers**
+- **Retrieval-Augmented Generation (RAG)**
+- **NLP-based Financial Forecasting**
+- **Information Retrieval & Data Mining**
+
+---
+
+## 🔭 Current Focus
+
+- ReAct-based **agentic RAG systems**
+- Financial **sentiment analysis & market forecasting**
+- Retrieval optimization (chunking, indexing, re-ranking)
+- Transformer-based NLP models
 
 ---
 
