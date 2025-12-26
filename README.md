@@ -90,7 +90,7 @@ I enjoy working at the intersection of **ML, LLMs, information retrieval, and da
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iMahdiGhazavi&show_icons=true&theme=ayu-mirage&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMahdiGhazavi&layout=compact&theme=ayu-mirage&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iMahdiGhazavi&theme=ayu-mirage&hide_border=true" />
 </p>
 
 ---
