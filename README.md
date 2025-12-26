@@ -60,15 +60,6 @@ I enjoy working at the intersection of **ML, LLMs, information retrieval, and da
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iMahdiGhazavi&show_icons=true&theme=ayu-mirage&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMahdiGhazavi&layout=compact&theme=ayu-mirage&hide_border=true" />
-</p>
-
----
-
 ## ⚡ Tech Stack
 
 ### 🧠 Languages
@@ -92,6 +83,15 @@ I enjoy working at the intersection of **ML, LLMs, information retrieval, and da
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iMahdiGhazavi&show_icons=true&theme=ayu-mirage&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMahdiGhazavi&layout=compact&theme=ayu-mirage&hide_border=true" />
+</p>
 
 ---
 
