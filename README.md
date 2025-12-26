@@ -21,6 +21,12 @@ B.Sc. Computer Engineering @ Iran University of Science & Technology
   <a href="https://www.linkedin.com/in/mahdi-ghazavi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
   </a>
+  <a href="https://telegram.me/iMahdiGhazavi" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-eeeee4?style=flat-square&logo=Telegram&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/mahdi_ghzvi/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-eeeee4?style=flat-square&logo=Instagram&logoColor=red">
+  </a>
 </p>
 
 ---
@@ -58,7 +64,7 @@ I enjoy working at the intersection of **ML, LLMs, information retrieval, and da
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iMahdiGhazavi&show_icons=true&theme=ayu-mirage&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iMahdiGhazavi&theme=ayu-mirage&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMahdiGhazavi&layout=compact&theme=ayu-mirage&hide_border=true" />
 </p>
 
 ---
@@ -89,28 +95,9 @@ I enjoy working at the intersection of **ML, LLMs, information retrieval, and da
 
 ---
 
-## 🤙 Follow Me Around the Web
-
-<p align="center">
-  <a href="https://mahdighazavi.github.io">
-    <img src="https://img.shields.io/badge/Website-Visit%20My%20Site-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" />
-  </a>
-  <a href="https://github.com/iMahdiGhazavi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahdi-ghazavi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:realmahdighazavi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/iMahdiGhazavi/iMahdiGhazavi?label=profile%20updated&style=flat-square">
 </p>
-
----
 
 <p align="center">
   <small><i>Last updated: Dec. 2025</i></small>
