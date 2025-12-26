@@ -9,8 +9,8 @@ B.Sc. Computer Engineering @ Iran University of Science & Technology
 </h3>
 
 <p align="center">
-  <a href="https://mahdighazavi.github.io">
-    <img src="https://img.shields.io/badge/Website-mahdighazavi.github.io-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" />
+  <a href="https://imahdighazavi.github.io" target="_blank>
+    <img src="https://img.shields.io/badge/Website-imahdighazavi.github.io-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" />
   </a>
   <a href="mailto:realmahdighazavi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" />
